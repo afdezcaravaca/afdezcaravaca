@@ -1,27 +1,27 @@
 # Ángel Fernández Caravaca
 
-Colaborador honorario en el grupo de investigación [AYRNA](https://www.uco.es/investigacion/grupos/ayrna/) · Universidad de Córdoba  
-Aspirante a doctor en aprendizaje automático e inteligencia artificial.
+Honorary collaborator at [AYRNA](https://www.uco.es/investigacion/grupos/ayrna/) research group · Universidad de Córdoba  
+Aspiring PhD in machine learning and artificial intelligence.
 
-Con formación en física y matemáticas, me interesa construir modelos que no solo funcionen, sino que sean interpretables y estén fundamentados en teoría sólida.
-
----
-
-## 🔬 Investigación
-
-Actualmente trabajo en la predicción de estados iniciales en autómatas celulares mediante CNNs — el **problema inverso del Juego de la Vida de Conway**. El trabajo está en fase de publicación.
-
-📄 *Preprint / artículo próximamente.*
+With a background in physics and mathematics, I'm interested in building models that are not only accurate, but interpretable and grounded in solid theory.
 
 ---
 
-## 📌 Proyectos destacados
+## 🔬 Research
+
+Currently working on predicting initial states in cellular automata using CNNs — the **reverse Game of Life problem**. Paper in progress.
+
+📄 *Preprint / article coming soon.*
+
+---
+
+## 📌 Featured Projects
 
 **[ayrna/reverseGoLwithCNN](https://github.com/ayrna/reverseGoLwithCNN)**  
-Implementación oficial del paper. CNN para resolver el problema inverso del Juego de la Vida: dado un estado del tablero, predecir el estado anterior. Incluye pipeline de entrenamiento, validación cruzada y arquitecturas convolucionales.
+Official implementation of the paper. CNN approach to the reverse Game of Life: given a board state, predict the previous one. Includes training pipeline, cross-validation and convolutional architectures.
 
 **[pytorch-from-scratch](https://github.com/afdezcaravaca/pytorch-from-scratch)**  
-Notebooks progresivos cubriendo PyTorch desde cero: redes neuronales, pipelines de entrenamiento y fundamentos de deep learning.
+Progressive notebooks covering PyTorch from scratch: neural networks, training pipelines, and deep learning fundamentals.
 
 ---
 
@@ -29,34 +29,33 @@ Notebooks progresivos cubriendo PyTorch desde cero: redes neuronales, pipelines 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/NumPy-013243?style=flat&logo=tensorflow&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📜 Formación destacada
+## 📜 Featured Training
 
 [![Deep Learning Specialization](https://img.shields.io/badge/Deep_Learning_Specialization-Coursera_·_DeepLearning.AI-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/deep-learning)  
-*Andrew Ng* — Redes neuronales, CNNs, RNNs, Transformers · TensorFlow · PyTorch
+*Andrew Ng* — Neural Networks, CNNs, RNNs, Transformers · TensorFlow · PyTorch
 
 ---
 
-## 📊 Actividad
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afdezcaravaca&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afdezcaravaca&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdezcaravaca&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelfdezcaravaca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afdezcaravaca@gmail.com)
+💼 LinkedIn: [angelfdezcaravaca](https://linkedin.com/in/angelfdezcaravaca)  
+📧 Email: [afdezcaravaca@gmail.com](mailto:afdezcaravaca@gmail.com)
 
 ---
 
-<p align="center"><i>Córdoba, España</i></p>
+<p align="center"><i>Córdoba, Spain</i></p>
