@@ -63,7 +63,7 @@ Progressive notebooks covering PyTorch from scratch: neural networks, training p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdezcaravaca&theme=react-dark&hide_border=true&area=true&custom_title=Angel's%20Contributions" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdezcaravaca&theme=react-dark&hide_border=true&area=true&custom_title=Ángel's%20Contributions" width="100%"/>
 </p>
 
 ---
