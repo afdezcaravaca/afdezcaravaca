@@ -27,7 +27,7 @@ Official implementation of the paper. CNN approach to the reverse Game of Life: 
 **[pytorch-from-scratch](https://github.com/afdezcaravaca/pytorch-from-scratch)**  
 Progressive notebooks covering PyTorch from scratch: neural networks, training pipelines, and deep learning fundamentals.
 
-**[maze-generator-aframe](https://github.com/afdezcaravaca/maze-generator-aframe)**
+**[maze-generator-aframe](https://github.com/afdezcaravaca/maze-generator-aframe)**  
 Random maze generator with interactive 3D first-person exploration, built with Python and A-Frame. 
 
 ---
