@@ -7,7 +7,7 @@ I work as an honorary collaborator at the AYRNA research group, where I develop 
 Currently, I'm working on predicting the initial state of Conway's Game of Life using CNNs, where I also designed a layer implementing a continuous differentiable version of the game's rules.
 
 💼 LinkedIn: [angelfdezcaravaca](https://linkedin.com/in/angelfdezcaravaca)  
-📧 Email: [afdezcaravaca@gmail.com](mailto:afdezcaravaca@gmail.com)
+📧 Email: [q02ferca@uco.es](mailto:q02ferca@uco.es)
 
 ---
 
