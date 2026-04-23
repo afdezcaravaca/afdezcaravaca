@@ -43,7 +43,7 @@ Random maze generator with interactive 3D first-person exploration, built with P
 **Deep Learning Specialization** [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/deep-learning)  
 *Andrew Ng* — Neural Networks · CNNs · RNNs · Transformers · TensorFlow · PyTorch
 <details>
-<summary>Courses</summary>
+<summary><strong>Courses</strong></summary>
   
 1. **Neural Networks and Deep Learning** — Artificial Neural Networks · Linear Algebra · Gradient Descent · NumPy
 2. **Improving Deep Neural Networks** — Hyperparameter Tuning · Regularization · Optimization · TensorFlow & Keras
