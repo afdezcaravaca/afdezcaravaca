@@ -13,9 +13,9 @@ Currently, I'm working on predicting the initial state of Conway's Game of Life 
 
 ## 🔬 Research
 
-Currently working on the **reverse Game of Life problem**, i.e, predicting initial states in cellular automata using CNNs. The paper is currently under revision.
+Currently working on the **reverse Game of Life problem**, i.e, predicting initial states in cellular automata using CNNs. 
 
-📄 *A CNN-based approach to the reverse Game of Life problem —*Accepted at IWINAC — to be published.**
+📄 *[A CNN-based approach to the reverse Game of Life problem](https://link.springer.com/chapter/10.1007/978-3-032-27317-8_25)* — *30/05/2026*
 
 ---
 
