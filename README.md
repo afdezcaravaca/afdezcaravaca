@@ -30,6 +30,10 @@ Progressive notebooks covering PyTorch from scratch: neural networks, training p
 **[maze-generator-aframe](https://github.com/afdezcaravaca/maze-generator-aframe)**  
 Random maze generator with interactive 3D first-person exploration, built with Python and A-Frame. 
 
+**[git-from-scratch](https://github.com/afdezcaravaca/git-from-scratch)**  
+Progressive chapters covering git from scratch: version control basics, branching and merging, and collaborative workflows with GitHub, so you
+can start versioning and collaborating with confidence.
+
 ---
 
 ## 📜 Education
@@ -52,7 +56,6 @@ Random maze generator with interactive 3D first-person exploration, built with P
 5. **Sequence Models** — RNNs · LSTMs · Word Embeddings · NLP
 
 </details>
-
 
 ---
 
