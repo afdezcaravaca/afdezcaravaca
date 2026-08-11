@@ -24,13 +24,6 @@ Currently working on the **reverse Game of Life problem**, i.e, predicting initi
 **[ayrna/reverseGoLwithCNN](https://github.com/ayrna/reverseGoLwithCNN)**  
 Official implementation of the paper. CNN approach to the reverse Game of Life: given a board state, predict the previous one. Includes training pipeline, cross-validation and convolutional architectures.
 
-**[pytorch-from-scratch](https://github.com/afdezcaravaca/pytorch-from-scratch)**  
-Progressive notebooks covering PyTorch from scratch: neural networks, training pipelines, and deep learning fundamentals.
-
-**[git-from-scratch](https://github.com/afdezcaravaca/git-from-scratch)**  
-Progressive chapters covering git from scratch: version control basics, branching and merging, and collaborative workflows with GitHub, so you
-can start versioning and collaborating with confidence.
-
 ---
 
 ## 📜 Education
