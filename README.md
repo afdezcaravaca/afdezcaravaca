@@ -1,10 +1,11 @@
-# Hi, I'm Ángel Fdez. Caravaca 👋
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Hello%2C+everyone!;I'm+%C3%81ngel+F.+Caravaca+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Physics graduate from Universidad de Córdoba, currently completing a Master's in Computational Intelligence and IoT at the same university. I'm interested in AI applied to prediction and data analysis, particularly in scientific and health contexts.
+Physics graduate from the University of Córdoba, with a Master's in Computational Intelligence and IoT from the same university. I'm interested in AI applied to prediction and data analysis, particularly in scientific and health contexts.
 
-I work as an honorary collaborator at the AYRNA research group, where I develop deep learning models. My physics background has given me a rigorous, analytical approach to problem-solving. I enjoy bridging scientific thinking with computational tools.
+I'm an honorary collaborator at the AYRNA research group, where I develop deep learning models. My physics background has given me a rigorous, analytical approach to problem-solving, and I enjoy bridging scientific thinking with computational tools.
 
-Currently, I'm working on predicting the initial state of Conway's Game of Life using CNNs, where I also designed a layer implementing a continuous differentiable version of the game's rules.
+I also work at the Physics Department of the University of Córdoba, where I'm responsible for the end-to-end management, optimization and maintenance of its HPC cluster, and provide technical support to research groups working on physical modelling. 
 
 💼 LinkedIn: [angelfdezcaravaca](https://linkedin.com/in/angelfdezcaravaca)  
 📧 Email: [q02ferca@uco.es](mailto:q02ferca@uco.es)
