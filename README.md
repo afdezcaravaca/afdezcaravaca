@@ -1,5 +1,4 @@
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Hello%2C+everyone!;I'm+%C3%81ngel+F.+Caravaca+%F0%9F%91%8B)](https://git.io/typing-svg)
+# Hi, I'm Ángel F. Caravaca 👋
 
 Physics graduate from the University of Córdoba, with a Master's in Computational Intelligence and IoT from the same university. I'm interested in AI applied to prediction and data analysis, particularly in scientific and health contexts.
 
