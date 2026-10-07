@@ -60,7 +60,7 @@ Official implementation of the paper. CNN approach to the reverse Game of Life: 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdezcaravaca&theme=react-dark&hide_border=true&area=true&custom_title=Ángel's%20Contributions" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afdezcaravaca&theme=react-dark&hide_border=true&area=true&custom_title=%C3%81ngel%27s%20Contributions" width="100%"/>
 </p>
 
 ---
