@@ -49,22 +49,6 @@ Official implementation of the paper. CNN approach to the reverse Game of Life: 
 
 </details>
 
----
-
-## 📊 Activity
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afdezcaravaca/afdezcaravaca/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/afdezcaravaca/afdezcaravaca/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
 ---
 
